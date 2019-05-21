@@ -11,5 +11,5 @@ $(call inherit-product, device/Leapfrog/Epic/epic.mk)
 PRODUCT_DEVICE := Epic
 PRODUCT_NAME := cm_narnia
 PRODUCT_BRAND := Leapfrog Epic
-PRODUCT_MODEL := narnia
+PRODUCT_MODEL := UYT2
 PRODUCT_MANUFACTURER := Leapfrog
